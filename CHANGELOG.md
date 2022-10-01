@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/woorim960/semantic-release-or-npm-cicd-practice/compare/v1.0.0...v1.1.0) (2022-10-01)
+
+
+### Features
+
+* test ([fc2c971](https://github.com/woorim960/semantic-release-or-npm-cicd-practice/commit/fc2c9719769a0ab5d6d2040ab81148b68636c1eb))
+
 # 1.0.0 (2022-10-01)
 
 
