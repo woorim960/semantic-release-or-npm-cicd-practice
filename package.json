@@ -1,7 +1,7 @@
 {
   "name": "semantic-release-or-npm-cicd-practice",
   "description": "semantic-release-or-npm-cicd-practice",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "main": "app.js",
   "scripts": {
     "prepare": "husky install",
