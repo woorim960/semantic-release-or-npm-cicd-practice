@@ -1,4 +1,4 @@
-const abc = 'abc'
-console.log(abc)
-console.log(abc)
-console.log(abc)
+const abc = "abc";
+console.log(abc);
+console.log(abc);
+console.log(abc);
