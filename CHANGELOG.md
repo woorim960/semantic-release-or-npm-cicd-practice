@@ -1,3 +1,17 @@
+# [1.2.0](https://github.com/woorim960/semantic-release-or-npm-cicd-practice/compare/v1.1.0...v1.2.0) (2022-10-01)
+
+
+### Bug Fixes
+
+* add release cmd ([c90ccac](https://github.com/woorim960/semantic-release-or-npm-cicd-practice/commit/c90ccac460abac01344987f2ec0d6644434b56f1))
+* **app.js:** fix the code ([ce8a0fc](https://github.com/woorim960/semantic-release-or-npm-cicd-practice/commit/ce8a0fc901c802fc6815e5c51a424231b6795230))
+* fix ([692162d](https://github.com/woorim960/semantic-release-or-npm-cicd-practice/commit/692162d135079dcab2d7b107fb10c162875c668c))
+
+
+### Features
+
+* **app:** add console ([10a9af9](https://github.com/woorim960/semantic-release-or-npm-cicd-practice/commit/10a9af906c87d2ef222d07385ce2359ecfff0e61))
+
 # [1.1.0](https://github.com/woorim960/semantic-release-or-npm-cicd-practice/compare/v1.0.0...v1.1.0) (2022-10-01)
 
 
