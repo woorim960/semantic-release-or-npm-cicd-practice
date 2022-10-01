@@ -1,3 +1,16 @@
+# [2.0.0](https://github.com/woorim960/semantic-release-or-npm-cicd-practice/compare/v1.2.0...v2.0.0) (2022-10-01)
+
+
+### Performance Improvements
+
+* **app:** update major ([6de5fb3](https://github.com/woorim960/semantic-release-or-npm-cicd-practice/commit/6de5fb3b7c1ad8cfe550dc4b75e4a8d2b46f5c3d))
+* update major ([1312180](https://github.com/woorim960/semantic-release-or-npm-cicd-practice/commit/13121809913a6e0a171eb8bc82fc5e7a58a104ff))
+
+
+### BREAKING CHANGES
+
+* **app:** yes
+
 # [1.2.0](https://github.com/woorim960/semantic-release-or-npm-cicd-practice/compare/v1.1.0...v1.2.0) (2022-10-01)
 
 
